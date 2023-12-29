@@ -1,0 +1,37 @@
+{
+  "cities": [
+    {
+      "cityName": "Burgos",
+      "emoji": "🇪🇸",
+      "date": "2023-12-07T11:51:03.609Z",
+      "notes": "amazing City 😍",
+      "position": {
+        "lat": "42.36102078028141",
+        "lng": "-3.781685352904419"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Montuiri",
+      "emoji": "🇪🇸",
+      "date": "2023-12-07T11:52:45.855Z",
+      "notes": "It's look like Maldives🤩",
+      "position": {
+        "lat": "39.5687364983678",
+        "lng": "3.0066400353337612"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Aswan",
+      "emoji": "🇪🇬",
+      "date": "2023-12-09T19:04:57.405Z",
+      "notes": "Nobiann History 😍",
+      "position": {
+        "lat": "24.090645446806352",
+        "lng": "32.89611542377342"
+      },
+      "id": 98443200
+    }
+  ]
+}
